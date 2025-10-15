@@ -1,5 +1,7 @@
 SECUFLOW MINER Project Summary
+
 Project Overview
+
 SECUFLOW MINER is a collaborative security analysis tool designed to help security analysts visualize and quantify data while coordinating collaboration between development and security teams. The core goal of this project is to gain a deeper understanding of potential security risks caused by poor team collaboration. Core Functionality
 
 MC-STC Calculation: Calculates and analyzes the time complexity of multi-dimensional collaborative security.
